@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
         EditText cur=(EditText) findViewById(R.id.editText);
         Double neww = Double.parseDouble(cur.getText().toString());
-        Double convert=neww*70;
+        Double convert=neww*80;
         Toast.makeText(this,convert.toString(), Toast.LENGTH_SHORT).show();
 
 
