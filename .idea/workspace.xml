@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a62b266-0b43-4686-98cf-3eac706ba285" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/nandhini/currencyconvertor/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/nandhini/currencyconvertor/MainActivity.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
